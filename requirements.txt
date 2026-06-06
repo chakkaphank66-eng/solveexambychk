@@ -1,0 +1,5 @@
+streamlit
+PyMuPDF
+google-generativeai
+Pillow
+markdown
